@@ -1,0 +1,23 @@
+.btn-outline-warning{
+    color: greenyellow;
+    border-color: greenyellow;
+}
+span.text-warning2{
+    color: greenyellow;
+}
+.btn-outline-warning:hover {
+    color: #000;
+    background-color: greenyellow;
+    border-color: greenyellow;
+}
+.navbar-dark .navbar-brand{
+    font-style: sans-serif;
+    font-size: 15;
+    /* color: yellowgreen; */
+}
+span.text-warning3{
+    color: #000;
+    background-color: yellowgreen;
+    font-size: 15;
+    border-radius: 5px;
+}
